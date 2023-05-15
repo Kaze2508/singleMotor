@@ -1,0 +1,6 @@
+document Motor Driver HAT + configure I2C communication on raspberry pi: 
+https://www.waveshare.com/wiki/Motor_Driver_HAT
+
+sau khi configure thì chạy file python singleMotor 
+
+
